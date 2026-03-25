@@ -4,7 +4,12 @@ title: Home
 ---
 
 <section class="hero hero-home">
-  <div class="hero-copy">
+  <!-- 图片放在最上面，占满宽度 -->
+  <div class="hero-visual" style="margin-bottom: 30px;">
+    <img src="{{ '/assets/images/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.avif' | relative_url }}" alt="实验室首页图" style="width: 100%; height: auto; max-width: none;">
+  </div>
+  <!-- 文字放在下面，正常横排 -->
+  <div class="hero-copy" style="max-width: 100%; text-align: left;">
     <p class="eyebrow">{{ site.data.site.lab_name }}</p>
     <h1>{{ site.data.site.intro }}</h1>
     <p class="hero-text">{{ site.data.site.tagline }}</p>
@@ -13,10 +18,7 @@ title: Home
       <a class="button secondary" href="{{ '/publications/' | relative_url }}">View Publications</a>
     </div>
   </div>
-  <div class="hero-visual">
-    <div align="center" style="margin: 20px 0;">
-  <img src="{{ '/assets/images/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.avif' | relative_url }}" alt="实验室首页图" style="max-width: 800px; width: 100%;">
-</div>
+</section>
     {% for item in site.data.home_research limit:4 %}
       <article class="visual-card">
         <img src="{{ item.image }}" alt="{{ item.title }}">
