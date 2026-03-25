@@ -10,12 +10,14 @@ title: Home
 
   .hero-home .hero-visual {
     width: 100%;
-    margin-bottom: 32px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 28px;
   }
 
   .hero-home .hero-visual img {
     width: 100%;
-    max-width: 1100px;
+    max-width: 1250px;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -24,28 +26,30 @@ title: Home
   }
 
   .hero-home .hero-copy {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     text-align: left;
   }
 
   .hero-home .hero-copy .eyebrow {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
+    font-size: 0.78rem;
   }
 
   .hero-home .hero-copy h1 {
-    font-size: clamp(2rem, 4vw, 3.4rem);
-    line-height: 1.15;
-    font-weight: 700;
-    margin-bottom: 18px;
-    letter-spacing: -0.02em;
+    font-size: clamp(1.45rem, 2vw, 1.9rem);
+    line-height: 1.35;
+    font-weight: 650;
+    margin-bottom: 14px;
+    letter-spacing: -0.01em;
+    max-width: 900px;
   }
 
   .hero-home .hero-text {
-    font-size: 0.95rem;
-    line-height: 1.7;
+    font-size: 0.9rem;
+    line-height: 1.6;
     color: #5f6b7a;
-    margin-bottom: 22px;
+    margin-bottom: 18px;
   }
 
   .hero-home .cta-row {
@@ -56,16 +60,20 @@ title: Home
 
   @media (max-width: 768px) {
     .hero-home .hero-visual {
-      margin-bottom: 24px;
+      margin-bottom: 20px;
+    }
+
+    .hero-home .hero-visual img {
+      max-width: 100%;
     }
 
     .hero-home .hero-copy h1 {
-      font-size: clamp(1.6rem, 7vw, 2.3rem);
-      line-height: 1.2;
+      font-size: clamp(1.2rem, 4.8vw, 1.6rem);
+      line-height: 1.32;
     }
 
     .hero-home .hero-text {
-      font-size: 0.92rem;
+      font-size: 0.88rem;
     }
   }
 </style>
