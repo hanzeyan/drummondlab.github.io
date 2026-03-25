@@ -1,0 +1,96 @@
+- title: Innate sensing against viruses
+  summary: Innate immunity is the primary line of defense against pathogens, initiated
+    through pattern recognition receptors (PPR), such as intracellular cGAS, RIG-I,
+    NOD, and inflammasomes. The immune response is tightly regulated in time and space,
+    and its dysregulation can lead to cytokine storm syndrome, autoimmunity, and cancer.
+    Organelles with membrane structures provide platforms for antiviral innate immunity.
+    Therefore, the spatiotemporal proteomic profiling of core molecules on membrane
+    platforms that regulate antiviral response and immune escape is crucial for the
+    development of antiviral drugs.
+  bullets:
+  - 'We successfully developed a live-cell and organelle-specific proximity biotin-labeling
+    technology (Nature Cell Biology, 2015) based on Rhee et al. Science 2015 and use
+    mass spectrometry to discover two protein complexes on different organelles with
+    TRIM14 as the core protein. These complexes allow us to study viral-specific immune
+    activation (time) and protein-protein interaction (PPI) network across organelles
+    (space) in type I IFN signaling: (1) anti-DNA virus: TRIM14-USP14 complex associates
+    with autophagosomes and stabilizes cGAS (Molecular Cell, 2016) (2) anti-RNA virus:
+    The mitochondrial WHIP-TRIM14-PPP6C complex regulates the mitochondrial spatiotemporal
+    trafficking and activation of RIG-I (Molecular Cell, 2017).'
+  - In the context of the COVID-19 pandemic, we utilized scRNA-seq to investigate
+    the viral invasion pathways and mechanisms at the single-cell level, aiming to
+    better understand the immunology of SARS-CoV-2 and acute respiratory distress
+    syndrome (ARDS). Our analysis of the viral invasion receptors—ACE2, TMPRSS2, and
+    CTSL—across various tissues and demographic groups revealed that receptor expression
+    was positively correlated with age and smoking history. Additionally, we identified
+    immune response regulatory networks and potential drug targets that may aid in
+    the development of COVID-19 treatments (Nature Medicine, 2021).
+- title: Neutrophils and gut microbiome in cancer progression and immune evasion
+  summary: 'The tumor microenvironment (TME) consists of cancer cells and non-cancer
+    components, such as myeloid immune cells, neurons, stromal cells, adipocytes,
+    and microbes. There are still questions to be addressed about TME: (1) How is
+    the TME formed in space and time? (2) How are cells in TME remodeled and recruited?
+    (3) How is the expression of immune checkpoint molecules regulated in cancer to
+    evade T cell killing? (4) What is the role of the microbiome in tumor development?'
+  bullets:
+  - We have demonstrated that Beclin-1 is a neutrophil-specific immune checkpoint
+    for pre B-ALL (Journal of Clinical Investigation, 2019). This finding is consistent
+    with the observations that the "high tumor infiltration of neutrophils is positively
+    associated with poor prognosis in cancer patients" (Gentles et al. Nature Medicine,
+    2015) and the expression levels of Beclin-1 in most cancer patients are low (Wechman
+    et al. Advanced Cancer Research, 2018). By far, the clinical effect of CAR-T cell
+    therapy on B-ALL is often limited by the gradual loss of CD19 or CD20 expression
+    in some cancer cell clones. Our research suggests that neutrophils and the Beclin-1-IL-21
+    axis are new drug targets for the treatment of B-ALL to complement CAR-T limitations
+    of cell therapy.
+  - The gut microbiota plays a key role in the development of colitis and colon cancer,
+    but the exact mechanisms remain unclear. We established a myeloid cell-specific
+    Tak1-deficient mouse model and found that it was completely resistant to chemically
+    induced acute colitis and colon cancer. Using metagenomic sequencing and fecal
+    transfer methods, we identified a single strain of Odoribacter splanchnicus enriched
+    in Tak1 knockout mice. The strain promotes the accumulation of protective immune
+    cells Th17 by triggering the innate immune factors IL-1β and IL-6, thereby inhibiting
+    the occurrence and development of colitis and colon cancer (Cell Host & Microbe,
+    2021).
+- title: Optogenetics for cancer immunotherapy
+  summary: 'Although cancer immunotherapy, such as TCR-T and CAR-T therapy, has been
+    used to treat various types of cancer, it still faces several challenges: (1)
+    It cannot precisely target tumor cells, causing off-target toxicity (On-target
+    off-tumor toxicity) and cytokine storm syndrome; (2) continuous tumor antigen
+    stimulation leads to T cell exhaustion, rendering them incapable of killing tumors
+    over extended periods; (3) T cells are not efficient in targeting tumors (trafficking).'
+  bullets:
+  - 'To address these challenges, we developed a long-range/deep-tissue wireless optogenetic
+    tool that can be applied to the immune system in vivo by coupling with upconversion
+    nanoparticles, which serve as a light source converter that can convert low-energy
+    "near-infrared light" with strong tissue penetration into "visible light" (eLife,
+    2015). For the first time, we proposed the concept of "Optogenetic Immunomodulation"
+    (Trends in Biotechnology, 2017). Several optogenetic tools have been developed
+    by integrating this technology into the "Cancer Immunity Cycle" to precisely control:
+    (1) the production of type I interferon (IFN-I) through Photo-SMOC, the photo-controllable
+    innate immune activation of supramolecular organizing center (MyDDosome and MAVSome)
+    (Advanced Biology, 2021); (2) the tumor-antigen cross-presentation through OptoDC,
+    light-controllable dendritic cells for tumor antigen presentation and T cell tumor
+    killing (eLife, 2015); (3) CAR-T cell therapy through OptoCAR-T, a new generation
+    of safe, non-toxic light-controllable CAR-T cells for tumor immunotherapy based
+    on the newly generated circularly permuted LOV2 (cpLOV2) domain (Nature Chemical
+    Biology, 2021).'
+  - We developed pNUTs, light-inducible protein nucleolar targeting tools, to study
+    the liquid-liquid phase separation (LLPS) within the nucleolus and nucleolar subcompartments
+    (Nucleic Acids Research, 2022). Because of our contributions to the field of optogenetics,
+    we were invited for a special review on optogenetics and cell physiology (Physiological
+    Reviews, 2022).
+- title: Single-cell and spatial atlas along the gut-brain axis
+  summary: Single-cell RNA sequencing (scRNA-seq) is a powerful technique that allows
+    for the identification of cell subpopulations and regulatory gene programs within
+    tissues. In combination with spatial transcriptomics, which captures the spatial
+    distribution of gene expression within the tissue, it is possible to reveal local
+    networks of intercellular communication acting in situ. Our research has focused
+    on the application of these techniques in the context of inflammation and the
+    gut-brain axis.
+  bullets:
+  - Through deep-sequencing of the enteric neurons at single-cell resolution and in
+    vivo Perturb-seq, we build ENS atlas at both steady state and inflammatory conditions
+    and identified key regulators driving shifts in cellular states, developmental
+    and environmental programs in enteric neurons and their communications with other
+    cells in the context of microbiota and type 2 immunity (Science, In revision).

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title and page.title != 'Home' %}{{ page.title }} | {{ site.data.site.lab_name }}{% else %}{{ site.data.site.lab_name }}{% endif %}</title>
+    <meta name="description" content="{{ site.data.site.intro | strip_newlines }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="site-backdrop"></div>
+    {% include header.html %}
+    <main class="page-shell">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

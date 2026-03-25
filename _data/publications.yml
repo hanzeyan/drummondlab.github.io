@@ -1,0 +1,191 @@
+- journal: Cell
+  date: In submission
+  title: Spatially resolved single-cell atlas of transcriptome and translatome in the adult mouse
+  url: '#'
+  authors: Zefang Tang#, Xin Sui#, Morgan Wu, Peng Tan, Yiming Zhou, Hailing Shi, Inori Kawauchiya, Jiakun Tian, Mingrui Wu, Ling Xiao, Jiahao Huang, Connie Kangni Wang, Jianting Guo, Jennifer A. Lo, Jingyi Ren, Hu Zeng, Haowen Zhou, Shuchen Luo, Qiyang Zhou, Diep H. Nguyen, Matthew Brown, Keith Keller, Xu Zhou, Pulin Li, Juan Lorenzo B. Pablo, Anna Greka, Ramnik Xavier, Eric S. Lander, Xiao Wang*
+- journal: Science
+  date: In revision
+  title: Regional encoding of enteric nervous system responses to microbiota and type 2 inflammation
+  url: '#'
+  authors: Peng Tan#, Alok Jaiswal#, Shane P. Murphy, Eric M. Brown, Hailey Wheeler, Chien-Wen Su, Emily P. Finan, Guadalupe J. Jasso, Hai Ning Shi, Daniel B. Graham, Toni M. Delorey, Jacques Deguine, Ramnik J. Xavier
+- journal: Nature
+  date: Oct 2023
+  title: Spatial Atlas of the Mouse Central Nervous System at Molecular Resolution
+  url: https://www.biorxiv.org/content/10.1101/2022.06.20.496914v1
+  authors: Hailing Shi#, Yichun He#, Yiming Zhou#, Jiahao Huang, Kamal Maher, Brandon Wang, Zefang Tang, Shuchen Luo, Peng Tan, Morgan Wu, Zuwan Lin, Jingyi Ren, Yaman Thapa, Xin Tang, Albert Liu, Jia Liu & Xiao Wang.
+- journal: elife
+  date: May 2023
+  title: Vangl2 suppresses NF-κB signaling and ameliorates sepsis by targeting p65 for NDP52-mediated autophagic degradation
+  url: https://www.biorxiv.org/content/10.1101/2023.03.30.534894v1.abstract
+  authors: Jiansen Lu, Jiahuan Zhang, Huaji Jiang, Zhiqiang Hu, Lian He, Jianwu Yang, Yingchao Xie, Dan Wu, Hongyu Li, Ke Zeng, Peng Tan, Qingyue Xiao, Zijing Song, Xiaochun Bai, Xiao Yu
+- journal: Exploration
+  date: April 2023
+  title: Biomimetic and bioinspired nanotechnology toward cancer vaccines
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/EXP.20210263
+  authors: ChenChao Feng, Peng Tan, Guangjun Nie, Motao Zhu.
+- journal: Physiological Reviews
+  date: July 2022 (Spotlight cover)
+  title: 'Optophysiology: Illuminating cell physiology with optogenetics'
+  url: https://journals.physiology.org/doi/full/10.1152/physrev.00021.2021
+  authors: Peng Tan#, Lian He#, Yun Huang & Yubin Zhou
+- journal: Advanced Science
+  date: April 2022 (Cover story)
+  title: Identification of a STIM1 Splicing Variant that Promotes Glioblastoma Growth
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202103940
+  authors: Jiansheng Xie, Guolin Ma, Lijuan Zhou, Lian He, Zhao Zhang, Peng Tan, Zixian Huang, Shaohai Fang, Tianlu Wang, Yi-Tsang Lee, Shufan Wen, Stefan Siwko, Liuqing Wang, Jindou Liu, Yangchun Du, Ningxia Zhang, Xiaoxuan Liu, Leng Han, Yun Huang, Rui Wang, Youjun Wang, Yubin Zhou & Weidong Han
+- journal: Nucleic Acids Research
+  date: March 2022
+  title: Optical control of protein delivery and partitioning in the nucleolus
+  url: https://academic.oup.com/nar/article/50/12/e69/6553118
+  authors: Peng Tan*, Tingting Hong, Xiaoli Cai, Wenbo Li, Yun Huang, Lian He * & Yubin Zhou *
+- journal: Nature Chemical Biology
+  date: August 2021
+  title: Circularly permuted LOV2 as a modular photoswitch for optogenetic engineering
+  url: https://www.nature.com/articles/s41589-021-00792-9
+  authors: Lian He#, Peng Tan#, Lei Zhu#, Kai Huang#, Nhung T Nguyen, Rui Wang, Lei Guo, Ling Li, Yuhan Yang, Zixian Huang, Yun Huang, Gang Han, Junfeng Wang & Yubin Zhou
+- journal: Cell Host & Microbe
+  date: June 2021
+  title: Microbiota regulate innate immune signaling and protective immunity against cancer
+  url: https://www.sciencedirect.com/science/article/pii/S193131282100144X
+  authors: Changsheng Xing#, Mingjun Wang#, Adebusola A Ajibade, Peng Tan, Chuntang Fu, Lang Chen, Motao Zhu, Zhao-Zhe Hao, Junjun Chu, Xiao Yu, Bingnan Yin, Jiahui Zhu, Wan-Jou Shen, Tianhao Duan, Helen Y Wang, Rong-Fu Wang
+  note: '☺ Featured article by Cell Host & Microbe: “TAKing on cancer”.<br>☺ Highlighted by Nat Rev Microbiol “Guarding against colorectal cancer”.'
+- journal: Advanced Biology
+  date: May 2021
+  title: Design of smart antibody mimetics with photosensitive switches
+  url: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adbi.202000541
+  authors: Lian He*, Peng Tan, Yun Huang* & Yubin Zhou*
+  note: '☺ Special Issue: Molecular Optogenetics.'
+- journal: Advanced Biology
+  date: May 2021
+  title: Engineering supramolecular organizing centers for optogenetic control of innate immune responses
+  url: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adbi.202000147
+  authors: Peng Tan*, Lian He, Yubin Zhou*
+  note: '☺ Special Issue: Molecular Optogenetics.'
+- journal: Nature Medicine
+  date: March 2021
+  title: Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics
+  url: https://www.nature.com/articles/s41591-020-01227-z
+  authors: Christoph Muus#, Malte D Luecken#, Gökcen Eraslan#, Lisa Sikkema#, Avinash Waghray#, Graham Heimberg#, Yoshihiko Kobayashi#, Eeshit Dhaval Vaishnav#, Ayshwarya Subramanian#, Christopher Smillie#, Karthik A Jagadeesh#, Elizabeth Thu Duong#, Evgenij Fiskin#, Elena Torlai Triglia#, Meshal Ansari#, Peiwen Cai#, Brian Lin#, Justin Buchanan#, Sijia Chen#, Jian Shu#, Adam L Haber#, Hattie Chung#, Daniel T Montoro#, Taylor Adams, Hananeh Aliee, Samuel J Allon, Zaneta Andrusivova, Ilias Angelidis, Orr Ashenberg, Kevin Bassler, Christophe Bécavin, Inbal Benhar, Joseph Bergenstråhle, Ludvig Bergenstråhle, Liam Bolt, Emelie Braun, Linh T Bui, Steven Callori, Mark Chaffin, Evgeny Chichelnitskiy, Joshua Chiou, Thomas M Conlon, Michael S Cuoco, Anna S E Cuomo, Marie Deprez, Grant Duclos, Denise Fine, David S Fischer, Shila Ghazanfar, Astrid Gillich, Bruno Giotti, Joshua Gould, Minzhe Guo, Austin J Gutierrez, Arun C Habermann, Tyler Harvey, Peng He, Xiaomeng Hou, Lijuan Hu, Yan Hu, Alok Jaiswal,
+    Lu Ji, Peiyong Jiang, Theodoros S Kapellos, Christin S Kuo, Ludvig Larsson, Michael A Leney-Greene, Kyungtae Lim, Monika Litviňuková, Leif S Ludwig, Soeren Lukassen, Wendy Luo, Henrike Maatz, Elo Madissoon, Lira Mamanova, Kasidet Manakongtreecheep, Sylvie Leroy, Christoph H Mayr, Ian M Mbano, Alexi M. McAdams, Ahmad N Nabhan, Sarah K Nyquist, Lolita Penland, Olivier B Poirion, Sergio Poli, CanCan Qi, Rachel Queen, Daniel Reichart, Ivan Rosas, Jonas C Schupp, Conor V Shea, Xingyi Shi, Rahul Sinha, Rene V Sit, Kamil Slowikowski, Michal Slyper, Neal P Smith, Alex Sountoulidis, Maximilian Strunz, Travis B Sullivan, Dawei Sun, Carlos Talavera-López, Peng Tan, Jessica Tantivit, Kyle J Travaglini, Nathan R Tucker, Katherine A Vernon, Marc H Wadsworth, Julia Waldman, Xiuting Wang, Ke Xu, Wenjun Yan, William Zhao, Carly G K Ziegler, NHLBI LungMap Consortium, Human Cell Atlas Lung Biological Network.
+- journal: Nature Communications
+  date: January 2021
+  title: Engineering of a bona fide light-operated calcium channel
+  url: https://www.nature.com/articles/s41467-020-20425-4
+  authors: Lian He, Liuqing Wang, Hongxiang Zeng, Peng Tan, Guolin Ma, Sisi Zheng, Yaxin Li, Lin Sun, Fei Dou, Stefan Siwko, Yun Huang, Youjun Wang, Yubin Zhou
+  note: '☺ Featured article by Nat Commun: Editor''s Highlights in “Biotechnology and methods”.'
+- journal: Journal of Clinical Investigation
+  date: October 2020
+  title: Beclin 2 negatively regulates innate immune signaling and tumor development
+  url: https://www.jci.org/articles/view/133283
+  authors: Motao Zhu, Guangtong Deng, Peng Tan, Changsheng Xing, Cuiping Guan, Chongming Jiang, Yinlong Zhang, Bo Ning, Chaoran Li, Bingnan Yin, Kaifu Chen, Yuliang Zhao, Helen Y Wang, Beth Levine, Guangjun Nie & Rong-Fu Wang
+- journal: Journal of Clinical Investigation
+  date: December 2019
+  title: Myeloid loss of Beclin-1 promotes PD-L1(hi) precursor B cell lymphoma development
+  url: https://www.jci.org/articles/view/127721
+  authors: Peng Tan, Lian He, Changsheng Xing, Jingrong Mao, Xiao Yu, Motao Zhu, Lixia Diao, Leng Han, Yubin Zhou, M James You, Helen Y Wang, Rong-Fu Wang
+  note: '☺ JCI Editor''s Pick Oncology.<br>☺ Featured article by JCI: “<a href="https://www.jci.org/articles/view/132534" target="_blank" rel="noopener noreferrer">Beclin-1 as a neutrophil-specific immune checkpoint</a>”.'
+- journal: Oncogene
+  date: March 2019
+  title: p53-dependent autophagic degradation of TET2 modulates cancer therapeutic resistance
+  url: https://www.nature.com/articles/s41388-018-0524-5
+  authors: Jixiang Zhang#, Peng Tan#, Lei Guo#, Jing Gong, Jingjing Ma, Jia Li, Minjung Lee, Shaohai Fang, Ji Jing, Gavin Johnson, Deqiang Sun, Wen-Ming Cao, Roderick Dashwood, Leng Han, Yubin Zhou, Wei-Guo Dong, Yun Huang
+- journal: Cell Chemical Biology
+  date: March 2019 (Cover story)
+  title: Discovery of Small-Molecule Inhibitors of the HSP90-Calcineurin-NFAT Pathway against Glioblastoma
+  url: https://doi.org/10.1016/j.chembiol.2018.11.009
+  authors: Zhenzhen Liu#, Hongli Li#, Lian He#, Yu Xiang, Chengsen Tian, Can Li, Peng Tan, Ji Jing, Yanpin Tian, Lupei Du, Yun Huang, Leng Han, Minyong Li, Yubin Zhou
+- journal: Nature Communications
+  date: December 2018
+  title: Calcium oscillations coordinate feather mesenchymal cell movement by SHH dependent modulation of gap junction networks
+  url: https://www.nature.com/articles/s41467-018-07661-5
+  authors: Ang Li#, Jung-Hwa Cho#, Brian Reid, Chun-Chih Tseng, Lian He, Peng Tan, Chao-Yuan Yeh, Ping Wu, Yuwei Li, Randall B Widelitz, Yubin Zhou, Min Zhao, Robert H Chow, Cheng-Ming Chuong
+- journal: Nature Communications
+  date: November 2018
+  title: Inflammasome activation negatively regulates MyD88-IRF7 type I IFN signaling and anti-malaria immunity
+  url: https://www.nature.com/articles/s41467-018-07384-7
+  authors: Xiao Yu, Yang Du, Chunmei Cai, Baowei Cai, Motao Zhu, Changsheng Xing, Peng Tan, Meng Lin, Jian Wu, Jian Li, Mingjun Wang, Helen Y Wang, Xin-Zhuan Su & Rong-Fu Wang
+- journal: PLoS Biology
+  date: November 2018
+  title: TRIM59 promotes breast cancer motility by suppressing p62-selective autophagic degradation of PDCD10
+  url: https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3000051
+  authors: Peng Tan, Youqiong Ye, Lian He, Jiansheng Xie, Ji Jing, Guolin Ma, Hongming Pan, Leng Han, Weidong Han, Yubin Zhou
+  note: ☺ Highlighted by PLoS journals as "<a href="https://collections.plos.org/collection/cell-biology-picks/" target="_blank" rel="noopener noreferrer">Editor's Picks</a>" in Cancer Cell Biology
+- journal: Journal of Molecular Cell Biology
+  date: August 2018
+  title: Tgfbr2 inactivation facilitates cellular plasticity and development of Pten-null prostate cancer
+  url: https://academic.oup.com/jmcb/article/10/4/316/4711171
+  authors: Wei Zhao#, Qingyuan Zhu#, Peng Tan#, Adebusola Ajibade, Teng Long, Wenyong Long, Qingtian Li, Pinghua Liu, Bo Ning, Helen Y Wang, Rong-Fu Wang
+- journal: Cell Reports
+  date: April 2018
+  title: Mutual Stabilization between TRIM9 Short Isoform and MKK6 Potentiates p38 Signaling to Synergistically Suppress Glioblastoma Progression
+  url: https://doi.org/10.1016/j.celrep.2018.03.096
+  authors: Kunpeng Liu, Chuanxia Zhang, Bowen Li, Weihong Xie, Jindong Zhang, Xichen Nie, Peng Tan, Limin Zheng, Song Wu, Yunfei Qin, Jun Cui & Feng Zhi
+- journal: PLoS Pathogens
+  date: February 2018
+  title: DHX29 functions as an RNA co-sensor for MDA5-mediated EMCV-specific antiviral immunity
+  url: https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1006886
+  authors: Qingyuan Zhu#, Peng Tan#, Yinyin Li, Meng Lin, Chaoran Li, Jingrong Mao, Jun Cui, Wei Zhao, Helen Y Wang, Rong-Fu Wang
+- journal: Molecular Cell
+  date: October 2017
+  title: Assembly of the WHIP-TRIM14-PPP6C Mitochondrial Complex Promotes RIG-I-Mediated Antiviral Signaling
+  url: https://www.sciencedirect.com/science/article/pii/S109727651730713X
+  authors: Peng Tan, Lian He, Jun Cui, Chen Qian, Xin Cao, Meng Lin, Qingyuan Zhu, Yinyin Li, Changsheng Xing, Xiao Yu, Helen Y Wang, Rong-Fu Wang
+  note: '☺ Featured article by Mol Cell: “<a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30792-X" target="_blank" rel="noopener noreferrer">Unexpected Alliance of WHIP-TRIM14-PPP6C to Combat Viruses</a>”.'
+- journal: Journal of Biological Chemistry
+  date: September 2017
+  title: Leucine-rich repeat–containing G protein–coupled receptor 4 (Lgr4) is necessary for prostate cancer metastasis via epithelial–mesenchymal transition
+  url: https://doi.org/10.1074/jbc.M116.771931
+  authors: Weijia Luo#, Peng Tan#, Melissa Rodriguez, Lian He, Kunrong Tan, Li Zeng, Stefan Siwko, Mingyao Liu
+- journal: Chemical Science
+  date: August 2017 (Cover story)
+  title: Optical control of membrane tethering and interorganellar communication at nanoscales
+  url: https://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc01115f
+  authors: Lian He#, Ji Jing#, Lei Zhu#, Peng Tan, Guolin Ma, Qian Zhang, Nhung T Nguyen, Junfeng Wang, Yubin Zhou, Yun Huang
+- journal: Immunity
+  date: November 2016
+  title: Cross-Regulation of Two Type I Interferon Signaling Pathways in Plasmacytoid Dendritic Cells Controls Anti-malaria Immunity and Host Mortality
+  url: https://doi.org/10.1016/j.immuni.2016.10.001
+  authors: Xiao Yu#, Baowei Cai#, Mingjun Wang, Peng Tan, Xilai Ding, Jian Wu, Jian Li, Qingtian Li, Pinghua Liu, Changsheng Xing, Helen Y Wang, Xin-Zhuan Su & Rong-Fu Wang
+- journal: Molecular Cell
+  date: October 2016
+  title: USP38 Inhibits Type I Interferon Signaling by Editing TBK1 Ubiquitination through NLRP4 Signalosome
+  url: https://www.cell.com/molecular-cell/fulltext/S1097-2765(16)30476-2
+  authors: Meng Lin#, Zhiyao Zhao#, Zhifen Yang#, Qingcai Meng, Peng Tan, Weihong Xie, Yunfei Qin, Rong-Fu Wang, Jun Cui
+- journal: Molecular Cell
+  date: October 2016
+  title: TRIM14 Inhibits cGAS Degradation Mediated by Selective Autophagy Receptor p62 to Promote Innate Immune Responses
+  url: https://doi.org/10.1016/j.molcel.2016.08.025
+  authors: Meixin Chen#, Qingcai Meng#, Yunfei Qin#, Puping Liang, Peng Tan, Lian He, Yubin Zhou, Yongjun Chen, Junjiu Huang, Rong-Fu Wang & Jun Cui
+- journal: eLife
+  date: December 2015
+  title: Near-infrared photoactivatable control of Ca2+ signaling and optogenetic immunomodulation
+  url: https://elifesciences.org/articles/10024
+  authors: Lian He#, Yuanwei Zhang#, Guolin Ma#, Peng Tan#, Zhanjun Li, Shengbing Zang, Xiang Wu, Ji Jing, Shaohai Fang, Lijuan Zhou, Youjun Wang, Yun Huang, Patrick G Hogan, Gang Han & Yubin Zhou
+  note: '☺ News highlight: TAMU today, NIH Biomedical Beat, the Battalion, Optics & Photonics.'
+- journal: Nature Cell Biology
+  date: October 2015
+  title: Proteomic mapping of ER–PM junctions identifies STIMATE as a regulator of Ca2+ influx
+  url: https://www.nature.com/articles/ncb3234
+  authors: Ji Jing#, Lian He#, Aomin Sun#, Ariel Quintana#, Yuehe Ding#, Guolin Ma, Peng Tan, Xiaowen Liang, Xiaolu Zheng, Liangyi Chen, Xiaodong Shi, Shenyuan L Zhang, Ling Zhong, Yun Huang, Meng-Qiu Dong, Cheryl L Walker, Patrick G Hogan, Youjun Wang, Yubin Zhou
+  note: '☺ Featured as "News & Views" by Nature Cell Biology: "<a href="https://www.nature.com/articles/ncb3245" target="_blank" rel="noopener noreferrer">STIMATE reveals a STIM1 transitional state</a>"'
+- journal: Nature Communications
+  date: July 2015
+  title: Inside-out Ca2+ signalling prompted by STIM1 conformational switch
+  url: https://www.nature.com/articles/ncomms8826
+  authors: Guolin Ma#, Ming Wei#, Lian He#, Chongxu Liu#, Bo Wu, Shenyuan L Zhang, Ji Jing, Xiaowen Liang, Alessandro Senes, Peng Tan, Siwei Li, Aomin Sun, Yunchen Bi, Ling Zhong, Hongjiang Si, Yuequan Shen, Minyong Li, Mi-Sun Lee, Weibin Zhou, Junfeng Wang, Youjun Wang, Yubin Zhou
+- journal: Cell Research
+  date: April 2014
+  title: USP3 inhibits type I interferon signaling by deubiquitinating RIG-I-like receptors
+  url: https://www.nature.com/articles/cr2013170
+  authors: Jun Cui#, Yanxia Song#, Yinyin Li#, Qingyuan Zhu, Peng Tan, Yunfei Qin, Helen Y Wang, Rong-Fu Wang
+  note: ☺ Recommended by F1000Prime.
+- journal: Cell Proliferation
+  date: October 2013
+  title: Overexpression of nuclear distribution protein (hNUDC) causes pro-apoptosis and differentiation in Dami megakaryocyte
+  url: https://doi.org/10.1111/cpr.12055
+  authors: Ying-Ying Xiao, Yuan-Bin Zheng, Peng Tan, Peilin Xu, Qing Zhang
+- journal: PLoS One
+  date: December 2012
+  title: Live-cell visualization of intracellular interaction between a nuclear migration protein (hNUDC) and the thrombopoietin receptor (Mpl)
+  url: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0051849
+  authors: Yuan-Bin Zheng, Ying-Ying Xiao, Peng Tan, Qing Zhang, Peilin Xu
