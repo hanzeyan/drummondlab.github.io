@@ -3,13 +3,79 @@ layout: default
 title: Home
 ---
 
+<style>
+  .hero-home {
+    display: block !important;
+  }
+
+  .hero-home .hero-visual {
+    width: 100%;
+    margin-bottom: 32px;
+  }
+
+  .hero-home .hero-visual img {
+    width: 100%;
+    max-width: 1100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 18px;
+    object-fit: cover;
+  }
+
+  .hero-home .hero-copy {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  .hero-home .hero-copy .eyebrow {
+    margin-bottom: 10px;
+  }
+
+  .hero-home .hero-copy h1 {
+    font-size: clamp(2rem, 4vw, 3.4rem);
+    line-height: 1.15;
+    font-weight: 700;
+    margin-bottom: 18px;
+    letter-spacing: -0.02em;
+  }
+
+  .hero-home .hero-text {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #5f6b7a;
+    margin-bottom: 22px;
+  }
+
+  .hero-home .cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  @media (max-width: 768px) {
+    .hero-home .hero-visual {
+      margin-bottom: 24px;
+    }
+
+    .hero-home .hero-copy h1 {
+      font-size: clamp(1.6rem, 7vw, 2.3rem);
+      line-height: 1.2;
+    }
+
+    .hero-home .hero-text {
+      font-size: 0.92rem;
+    }
+  }
+</style>
+
 <section class="hero hero-home">
-  <!-- 图片放在最上面，占满宽度 -->
-  <div class="hero-visual" style="margin-bottom: 30px;">
-    <img src="{{ '/assets/images/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.avif' | relative_url }}" alt="实验室首页图" style="width: 100%; height: auto; max-width: none;">
+  <div class="hero-visual">
+    <img src="{{ '/assets/images/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.avif' | relative_url }}" alt="实验室首页图">
   </div>
-  <!-- 文字放在下面，正常横排 -->
-  <div class="hero-copy" style="max-width: 100%; text-align: left;">
+
+  <div class="hero-copy">
     <p class="eyebrow">{{ site.data.site.lab_name }}</p>
     <h1>{{ site.data.site.intro }}</h1>
     <p class="hero-text">{{ site.data.site.tagline }}</p>
@@ -60,6 +126,7 @@ title: Home
       {% endfor %}
     </div>
   </div>
+
   <div>
     <div class="section-head">
       <div>
