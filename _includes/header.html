@@ -1,13 +1,20 @@
 <header class="site-header">
   <div class="container header-inner">
-    <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.data.site.lab_name }} home">
-      <span class="brand-mark">TL</span>
-      <span class="brand-copy">
-        <span class="brand-title">{{ site.data.site.lab_name }}</span>
-        <span class="brand-tagline">{{ site.data.site.tagline }}</span>
-      </span>
+    <a class="brand brand-wordmark" href="{{ '/' | relative_url }}">
+      <div class="wordmark-wrap">
+        <div class="wordmark-main">
+          <span class="wordmark-tan">TAN</span>
+          <span class="wordmark-lab">LAB</span>
+        </div>
+        <div class="wordmark-subtitle">from basic immunology to engineering</div>
+      </div>
     </a>
-    <nav class="site-nav" aria-label="Main navigation">
+
+    <button class="menu-toggle" type="button" aria-label="Toggle navigation" onclick="document.body.classList.toggle('nav-open')">
+      ☰
+    </button>
+
+    <nav class="site-nav">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
       <a href="{{ '/team/' | relative_url }}"{% if page.url == '/team/' %} class="active"{% endif %}>Team</a>
       <a href="{{ '/news/' | relative_url }}"{% if page.url == '/news/' %} class="active"{% endif %}>News</a>
