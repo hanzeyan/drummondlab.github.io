@@ -14,6 +14,9 @@ title: Home
     </div>
   </div>
   <div class="hero-visual">
+    <div align="center" style="margin: 20px 0;">
+  <img src="{{ '/assets/images/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.avif' | relative_url }}" alt="实验室首页图" style="max-width: 800px; width: 100%;">
+</div>
     {% for item in site.data.home_research limit:4 %}
       <article class="visual-card">
         <img src="{{ item.image }}" alt="{{ item.title }}">
