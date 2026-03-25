@@ -19,14 +19,6 @@ title: Home
     </div>
   </div>
 </section>
-    {% for item in site.data.home_research limit:4 %}
-      <article class="visual-card">
-        <img src="{{ item.image }}" alt="{{ item.title }}">
-        <div class="visual-card__label">{{ item.title }}</div>
-      </article>
-    {% endfor %}
-  </div>
-</section>
 
 <section class="section section--soft">
   <div class="section-head">
