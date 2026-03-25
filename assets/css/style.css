@@ -574,9 +574,9 @@ img { max-width: 100%; display: block; }
 
 .brand-wordmark-image img {
   display: block;
-  height: 36px;
+  height: 42px;
   width: auto;
-  max-width: 260px;
+  max-width: 300px;
   object-fit: contain;
   background: #ffffff;
 }
